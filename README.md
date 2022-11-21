@@ -1,0 +1,1 @@
+# hw_js_06_methods-of-arrays
